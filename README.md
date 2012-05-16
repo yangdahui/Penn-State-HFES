@@ -1,4 +1,4 @@
--Penn-State-HFES
+Offical Website of Penn-State-HFES
 ================
 
 Offical Website, Developed for Human Factors and Ergonomics Society (HFES) Chapter, Pennsylvania State University
